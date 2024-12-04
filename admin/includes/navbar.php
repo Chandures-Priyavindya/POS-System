@@ -6,7 +6,7 @@
     <i class="fa fa-bars"></i>
 </button>
 
-<!-- Topbar Search -->
+<!-- Topbar Search
 <form
     class="d-none d-sm-inline-block form-inline mr-auto ml-md-3 my-2 my-md-0 mw-100 navbar-search">
     <div class="input-group">
@@ -18,7 +18,7 @@
             </button>
         </div>
     </div>
-</form>
+</form> -->
 
 <!-- Topbar Navbar -->
 <ul class="navbar-nav ml-auto">
@@ -68,7 +68,7 @@
                     </div>
                 </div>
                 <div>
-                    <div class="small text-gray-500">December 12, 2019</div>
+                    <div class="small text-gray-500">December 12, 2024</div>
                     <span class="font-weight-bold">A new monthly report is ready to download!</span>
                 </div>
             </a>
@@ -79,7 +79,7 @@
                     </div>
                 </div>
                 <div>
-                    <div class="small text-gray-500">December 7, 2019</div>
+                    <div class="small text-gray-500">December 3, 2024</div>
                     $290.29 has been deposited into your account!
                 </div>
             </a>
